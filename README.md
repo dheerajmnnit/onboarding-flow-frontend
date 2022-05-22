@@ -37,3 +37,5 @@ npm start
 
 - Since the only requirement was to build an onboarding page, I have chosen to use routes to build different pages of the onboarding process.
 
+### Hosted at Netlify
+- Link(https://profound-stardust-667828.netlify.app/)
